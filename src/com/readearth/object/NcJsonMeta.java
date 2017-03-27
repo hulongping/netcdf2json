@@ -1,4 +1,4 @@
-package com.object;
+package com.readearth.object;
 
 import java.io.Serializable;
 

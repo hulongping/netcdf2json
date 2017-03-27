@@ -1,8 +1,8 @@
-package com.netcdf;
+package com.readearth.netcdf;
 
 import java.io.IOException;
 
-import com.util.ArrayUtil;
+import com.readearth.util.ArrayUtil;
 
 import ucar.ma2.Array;
 import ucar.ma2.InvalidRangeException;

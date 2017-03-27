@@ -1,4 +1,4 @@
-package com.util;
+package com.readearth.util;
 
 import ucar.ma2.Array;
 import ucar.ma2.ArrayFloat;
