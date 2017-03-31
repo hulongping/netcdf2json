@@ -52,7 +52,7 @@ public class GFSWeatherJson {
 
             NcJsonObject vObject =new NcJsonObject();
             NcJsonHeader vHeader=new NcJsonHeader();
-            vHeader.parameterNumber=2;
+            vHeader.parameterNumber=3;
             vHeader.parameterNumberName="V-component_of_wind";
             vHeader.numberPoints = 181*360;
             vHeader.nx=360;
